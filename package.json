@@ -1,0 +1,30 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrangdethuong/todo-app.git"
+  },
+  "keywords": [
+    "todolist",
+    "todoapp"
+  ],
+  "author": "linhdz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrangdethuong/todo-app/issues"
+  },
+  "homepage": "https://github.com/sunrangdethuong/todo-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.14"
+  }
+}
